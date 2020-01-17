@@ -1,0 +1,16 @@
+//@import '../../node_modules/magnific-popup/dist/magnific-popup';
+@import 'import/sprite.css';
+@import 'import/second.scss';
+
+body {
+  background: black;
+
+  margin: 0;
+}
+
+.block {
+  width: 500px;
+  height: 500px;
+  background: green;
+  display: flex;
+}
